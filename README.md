@@ -7,7 +7,7 @@
 
 ---
 
-## ▶️ Chess Offline – Lotus Chess AI
+## ♟️  Chess Offline – Lotus Chess AI
 
 - 🆓 **Free to Play – Easy to Use – No Payment – No Registration**  
 - ⚡ **Lightweight Game – Fast Loading – Grandmaster-Level AI**  
