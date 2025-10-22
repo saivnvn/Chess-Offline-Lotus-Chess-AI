@@ -1,5 +1,6 @@
 # ♟️ Lotus Chess AI – Chess Offline
-
+# Trinh Hai Nam (Saivnvn): Just vibe-coded Lotus Chess with GPT — one weekend, one dream.
+# First version shipped in 7 days — Oct 2025.
 ### Inspired by Asia’s Fast-Growing Chess Movement  
 **Lotus Chess AI** brings the elegance and strength of Eastern chess to your pocket.  
 **Fully Offline** – No 4G / 5G / WiFi Needed.
