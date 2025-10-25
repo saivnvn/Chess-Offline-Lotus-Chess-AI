@@ -4,7 +4,7 @@
 ### Inspired by Asia’s Fast-Growing Chess Movement  
 
 <p align="center">
-  <img src="assets/logo.png" alt="Lotus Chess AI Logo" width="160"/>
+  <img src="./logo.png" alt="Lotus Chess AI Logo" width="160"/>
 </p>
 
 **Lotus Chess AI** brings the elegance and strength of Eastern chess to your pocket.  
@@ -18,14 +18,14 @@
 ## 🎮 Game Preview
 
 <p align="center">
-  <img src="assets/screenshot1.jpg" alt="Gameplay Screenshot 1" width="280"/>
-  <img src="assets/screenshot2.jpg" alt="Gameplay Screenshot 2" width="280"/>
-  <img src="assets/screenshot3.jpg" alt="Gameplay Screenshot 3" width="280"/>
+  <img src="./screenshot1.jpg" alt="Gameplay Screenshot 1" width="280"/>
+  <img src="./screenshot2.jpg" alt="Gameplay Screenshot 2" width="280"/>
+  <img src="./screenshot3.jpg" alt="Gameplay Screenshot 3" width="280"/>
 </p>
 
 <p align="center">
   <a href="https://apps.apple.com/vn/app/chess-offline-lotus-chess-ai/id6754170743">
-    <img src="assets/appstore-badge.png" alt="Download on the App Store" width="180"/>
+    <img src="./appstore-badge.png" alt="Download on the App Store" width="180"/>
   </a>
 </p>
 
