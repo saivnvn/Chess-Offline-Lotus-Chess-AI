@@ -5,6 +5,9 @@
 **Lotus Chess AI** brings the elegance and strength of Eastern chess to your pocket.  
 **Fully Offline** – No 4G / 5G / WiFi Needed.
 
+📱 **App Store:** [Download Now](https://apps.apple.com/vn/app/chess-offline-lotus-chess-ai/id6754170743)  
+🎬 **Watch Gameplay:** [YouTube Short](https://www.youtube.com/shorts/JACy-GcsVag)
+
 ---
 
 ## ♟️  Chess Offline – Lotus Chess AI
