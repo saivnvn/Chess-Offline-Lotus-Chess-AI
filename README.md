@@ -18,9 +18,9 @@
 ## 🎮 Game Preview
 
 <p align="center">
-  <img src="./screenshot1.jpg" alt="Gameplay Screenshot 1" width="280"/>
-  <img src="./screenshot2.jpg" alt="Gameplay Screenshot 2" width="280"/>
-  <img src="./screenshot3.jpg" alt="Gameplay Screenshot 3" width="280"/>
+  <img src="./screenshot1.png" alt="Gameplay Screenshot 1" width="280"/>
+  <img src="./screenshot0.png" alt="Gameplay Screenshot 2" width="280"/>
+  <img src="./screenshot2.png" alt="Gameplay Screenshot 3" width="280"/>
 </p>
 
 <p align="center">
